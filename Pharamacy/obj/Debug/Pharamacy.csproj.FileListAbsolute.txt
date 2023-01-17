@@ -1,0 +1,29 @@
+c:\users\wiron\documents\visual studio 2013\Projects\Pharamacy\Pharamacy\bin\Debug\Pharamacy.exe.config
+c:\users\wiron\documents\visual studio 2013\Projects\Pharamacy\Pharamacy\obj\Debug\Pharamacy.Administrations.resources
+c:\users\wiron\documents\visual studio 2013\Projects\Pharamacy\Pharamacy\obj\Debug\Pharamacy.Properties.Resources.resources
+c:\users\wiron\documents\visual studio 2013\Projects\Pharamacy\Pharamacy\obj\Debug\Pharamacy.csproj.GenerateResource.Cache
+c:\users\wiron\documents\visual studio 2013\Projects\Pharamacy\Pharamacy\bin\Debug\Pharamacy.exe
+c:\users\wiron\documents\visual studio 2013\Projects\Pharamacy\Pharamacy\bin\Debug\Pharamacy.pdb
+c:\users\wiron\documents\visual studio 2013\Projects\Pharamacy\Pharamacy\obj\Debug\Pharamacy.exe
+c:\users\wiron\documents\visual studio 2013\Projects\Pharamacy\Pharamacy\obj\Debug\Pharamacy.pdb
+c:\users\wiron\documents\visual studio 2013\Projects\Pharamacy\Pharamacy\bin\Debug\Guna.UI2.dll
+c:\users\wiron\documents\visual studio 2013\Projects\Pharamacy\Pharamacy\obj\Debug\Pharamacy.Admin.resources
+c:\users\wiron\documents\visual studio 2013\Projects\Pharamacy\Pharamacy\obj\Debug\Pharamacy.AdministratorUC.UC_Dashboard.resources
+C:\Users\Wiron\Documents\Visual Studio 2013\Projects\Pharamacy\Pharamacy\obj\Debug\Pharamacy.AdministratorUC.uC_adduser.resources
+C:\Users\Wiron\Documents\Visual Studio 2013\Projects\Pharamacy\Pharamacy\obj\Debug\Pharamacy.csproj.AssemblyReference.cache
+C:\Users\Wiron\Documents\Visual Studio 2013\Projects\Pharamacy\Pharamacy\obj\Debug\Pharamacy.csproj.CoreCompileInputs.cache
+C:\Users\Wiron\Documents\Visual Studio 2013\Projects\Pharamacy\Pharamacy\obj\Debug\Pharamacy.csproj.CopyComplete
+C:\Users\Wiron\source\repos\Pharamacy\Pharamacy\bin\Debug\Pharamacy.exe.config
+C:\Users\Wiron\source\repos\Pharamacy\Pharamacy\bin\Debug\Pharamacy.exe
+C:\Users\Wiron\source\repos\Pharamacy\Pharamacy\bin\Debug\Pharamacy.pdb
+C:\Users\Wiron\source\repos\Pharamacy\Pharamacy\obj\Debug\Pharamacy.csproj.AssemblyReference.cache
+C:\Users\Wiron\source\repos\Pharamacy\Pharamacy\obj\Debug\Pharamacy.Admin.resources
+C:\Users\Wiron\source\repos\Pharamacy\Pharamacy\obj\Debug\Pharamacy.Administrations.resources
+C:\Users\Wiron\source\repos\Pharamacy\Pharamacy\obj\Debug\Pharamacy.AdministratorUC.uC_adduser.resources
+C:\Users\Wiron\source\repos\Pharamacy\Pharamacy\obj\Debug\Pharamacy.AdministratorUC.UC_Dashboard.resources
+C:\Users\Wiron\source\repos\Pharamacy\Pharamacy\obj\Debug\Pharamacy.Properties.Resources.resources
+C:\Users\Wiron\source\repos\Pharamacy\Pharamacy\obj\Debug\Pharamacy.csproj.GenerateResource.cache
+C:\Users\Wiron\source\repos\Pharamacy\Pharamacy\obj\Debug\Pharamacy.csproj.CoreCompileInputs.cache
+C:\Users\Wiron\source\repos\Pharamacy\Pharamacy\obj\Debug\Pharamacy.csproj.CopyComplete
+C:\Users\Wiron\source\repos\Pharamacy\Pharamacy\obj\Debug\Pharamacy.exe
+C:\Users\Wiron\source\repos\Pharamacy\Pharamacy\obj\Debug\Pharamacy.pdb
